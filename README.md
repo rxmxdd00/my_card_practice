@@ -1,6 +1,6 @@
 # my_card_practice
 
-The goal of this project are :
+The goal of this flutter project are :
 1. Learn how to use different widgets such as :
    - Container
    - Columns and Rows
